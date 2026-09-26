@@ -13,9 +13,8 @@ Site estático (HTML + JS). Não precisa de build.
 3. **Deploy**. O `index.html` abre a página principal automaticamente.
 
 ## Arquivos
-- `index.html` — entrada do site
-- `Padaria Artesanal v2 Branco.dc.html` — página principal
-- `Cardapio.dc.html` — cardápio completo (também em `/cardapio`)
-- `Hero Bancada.dc.html` — hero com vídeo
-- `Mapa Nonna.html` — mapa animado
-- `data/` — itens do cardápio · `assets/` — fotos, vídeo e logo
+- `home.dc.html` — página inicial (abre em `/`)
+- `cardapio.dc.html` — cardápio (abre em `/cardapio`)
+- `hero.dc.html` — hero com vídeo
+- `mapa.html` — mapa animado
+- `data/` e `assets/`

@@ -1,9 +1,23 @@
 {
-  "cleanUrls": false,
   "rewrites": [
-    { "source": "/cardapio", "destination": "/Cardapio.dc.html" }
+    {
+      "source": "/",
+      "destination": "/home.dc.html"
+    },
+    {
+      "source": "/cardapio",
+      "destination": "/cardapio.dc.html"
+    }
   ],
   "headers": [
-    { "source": "/assets/(.*)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=604800" }] }
+    {
+      "source": "/assets/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=604800"
+        }
+      ]
+    }
   ]
 }
