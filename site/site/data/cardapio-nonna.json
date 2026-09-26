@@ -1,0 +1,93 @@
+{
+  "fonte": "https://nonnagiordani.gamadelivery.app/",
+  "coletado_em": "2026-09-25",
+  "loja": {
+    "nome": "Nonna Giordani",
+    "avaliacao": "4.8 · 75 avaliações",
+    "endereco": "Av. A 86 (Loja 1) · Nova Colônia",
+    "entrega": "60 minutos em média",
+    "retirada": "20 minutos em média",
+    "consumo_no_local": true,
+    "horario": { "Domingo": "Fechado", "Segunda a Sexta": "12h às 18h", "Sábado": "8h às 18h" },
+    "pagamento": ["Crédito Mastercard", "Crédito Visa", "Débito Mastercard", "Débito Visa Electron", "Dinheiro", "Pix"]
+  },
+  "imagens_remotas": {
+    "logo": "https://nonnagiordani.gamadelivery.app/media/css/logo.png",
+    "banner": "https://nonnagiordani.gamadelivery.app/media/banners/loja/banner_fdc72046530f5c7d6ba665dc0c886a3b_bnVsbDs=.webp",
+    "Pães": "https://nonnagiordani.gamadelivery.app/temp/categoria_452b1f66428203f45b128df8f719f751.webp",
+    "Tortas e doces": "https://nonnagiordani.gamadelivery.app/temp/categoria_3e778526c22eaa07e7b53265f09c6f31.webp",
+    "Pizzas": "https://nonnagiordani.gamadelivery.app/temp/categoria_9650fe1779addcd733b268b5efb59964.webp",
+    "Salgados": "https://nonnagiordani.gamadelivery.app/temp/categoria_f4a9fe55d6e0f562bd98dfcf366ac147.webp",
+    "Vinhos": "https://nonnagiordani.gamadelivery.app/temp/categoria_eda5d124cd638d74d67e74e920e25ecf.webp",
+    "Bebidas": "https://nonnagiordani.gamadelivery.app/temp/categoria_8a7888344336867b21d89296ddd9eab6.webp"
+  },
+  "cardapio": {
+    "Pães": [
+      ["Mini Baguete Tradicional", "Pão de longa fermentação. Não contém ovos, açúcar ou gorduras", 8],
+      ["Trança de Nutella", "", 30],
+      ["Box Café da Manhã", "Para presentear uma pessoa especial", 105],
+      ["Box Café da Manhã Família", "Um café da manhã especial para compartilhar com a família", 150],
+      ["Box Love", "Box especial com vinho e baguete para surpreender seu amor", 240],
+      ["Cartão Nonna", "", 5]
+    ],
+    "Tortas e doces": [
+      ["Pastel de Nata", "Doce típico português, massa folhada, creme à base de ovos, manteiga, canela e limão", 8],
+      ["Sonho Tradicional de Creme", "", 14],
+      ["Sonho Doce de Leite", "Sonho recheado com doce de leite", 14],
+      ["Sonho Nutella", "", 20],
+      ["Mini Bolinho", "Mini bolo com cobertura de brigadeiro de chocolate. Sabores: cenoura ou chocolate", 15],
+      ["Croissant de Churros", "Croissant recheado com doce de leite e açúcar com canela", 20],
+      ["Croissant Nutella com Morango", "Croissant recheado com Nutella, morango e xerém (amendoim picado)", 30],
+      ["Brigadeiro de Chocolate", "Brigadeiro de chocolate meio amargo, 35g", 6],
+      ["Brigadeiro de Ninho com Nutella", "35g", 6],
+      ["Fatia de Bolo de Milho Verde com Goiabada", "Bolo de milho verde com cobertura de goiabada", 10],
+      ["Caseirinho de Churros", "Bolo com cobertura de doce de leite, canela e açúcar", 18],
+      ["Caseirinho de Banana com Especiarias", "", 18],
+      ["Torta Cookie Kinder Bueno", "", 20]
+    ],
+    "Pizzas": [
+      ["Pizza de Calabresa", "", 30],
+      ["Pizza Caprese", "", 30],
+      ["Pizza Gorgonzola com Mel", "", 32],
+      ["Pizza Peito de Peru", "", 35],
+      ["Pizza Quatro Queijos", "", 35]
+    ],
+    "Salgados": [
+      ["Croissant Tradicional", "Massa semi-folhada. Contém açúcar, ovos e manteiga", 12],
+      ["Misto Quente", "", 18],
+      ["Panino Toscano", "Focaccia, creme de ricota com limão siciliano, salame, rúcula, tomate e molho pesto", 23],
+      ["Hawaiano", "Pernil desfiado com molho barbecue, abacaxi e cebola roxa no pão baguete", 23],
+      ["Misto no Croissant", "Prensado na chapa", 23],
+      ["Misto a Cavalo", "Presunto e queijo no pão petrópolis com catupiry gratinado e ovo na chapa (gema mole)", 30],
+      ["Quiche de Presunto Parma", "Aproximadamente 9 cm", 10]
+    ],
+    "Vinhos": [
+      ["Vinho Chardonnay San Telmo", "", 60],
+      ["Vinho Verde Encostas", "", 50],
+      ["Vinho Chardonnay", "", 80],
+      ["Vinho Cabernet", "", 80],
+      ["Espumante Cordeiro", "", 83],
+      ["Espumante Nero", "", 63],
+      ["Espumante Salton", "", 63],
+      ["Licor Fazenda Bom Retiro", "", 80],
+      ["Cachaça Bom Retiro", "", 70]
+    ],
+    "Bebidas": [
+      ["Café Expresso", "", 8],
+      ["Café Coado G", "", 7],
+      ["Café com Leite G", "", 10],
+      ["Capuccino", "", 12],
+      ["Chocolate Quente", "Com cobertura de marshmallow", 12],
+      ["Expressotônica", "", 15],
+      ["Café Especial", "", 40],
+      ["Água sem Gás", "", 4],
+      ["Água com Gás", "", 5],
+      ["Suco Kapo", "Maracujá, uva ou morango", 6],
+      ["Del Valle", "Uva, goiaba, pêssego ou manga", 8],
+      ["Chá Matte com Gás", "", 8],
+      ["Coca-Cola", "Lata · tradicional ou zero", 7],
+      ["Guaraná Antarctica", "Lata", 7],
+      ["Sprite Lemon Fresh", "", 8]
+    ]
+  }
+}
